@@ -1,0 +1,5 @@
+# Walmart sales analysis
+Forecasting is used to predict future conditions and make plans accordingly.Forecasting is used in many businesses and business man­agement requires forecasting information when making a wide range of decisions.
+In this project,we forecast sales of Walmart using machine learning in python.It is analyzed using multiple linear regression models to predict the future sales of the store.
+
+The dataset used is [*Walmart Store Sales Forecasting*](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) project that was available on Kaggle. In this dataset, we have weekly sales data for 45 stores and 99 departments for a period of 3 years. In addition, we had store and geography specific information such as store size, unemployment rate, temperature, promotional markdowns etc. Using these factors, we needed to develop a regression model that can forecast the sales and is also computationally efficient and scalable.
