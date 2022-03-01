@@ -43,7 +43,7 @@ ENV/
 *.pickle
 *.p
 *.sav
-.pkl
+*.pkl
 # Django 
 *.log
 *.pot
